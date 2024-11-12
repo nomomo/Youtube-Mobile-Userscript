@@ -6,10 +6,12 @@ Welcome to the **YouTube Mobile Userscript** repository! This is a collection of
 
 ## Scripts Included
 
-### YouTube Mobile Loop Button
+### YouTube-Mobile-Loop-Button
 **Description:** Adds a loop button to the YouTube mobile site, allowing users to toggle video looping easily. The button appears in the action bar on each video page, with the loop state persisting across videos.
 
-**Install Link:** [https://github.com/nomomo/Youtube-Modile-Userscript/blob/main/YouTube_Mobile_Loop_Button.user.js](https://github.com/nomomo/Youtube-Modile-Userscript/blob/main/YouTube_Mobile_Loop_Button.user.js)
+![image](https://github.com/user-attachments/assets/4e775576-bfdc-4ba4-abf6-8d7c18ae35e2)
+
+**Install Link:** [https://github.com/nomomo/Youtube-Modile-Userscript/raw/refs/heads/main/YouTube-Mobile-Loop-Button.user.js](https://github.com/nomomo/Youtube-Modile-Userscript/raw/refs/heads/main/YouTube-Mobile-Loop-Button.user.js)
 
 #### Installation
 To install and use this userscript:
