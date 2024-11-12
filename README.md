@@ -7,7 +7,7 @@ Welcome to the **YouTube Mobile Userscript** repository! This is a collection of
 ## Scripts Included
 
 ### YouTube-Mobile-Loop-Button
-**Description:** Adds a loop button to the YouTube mobile site, allowing users to toggle video looping easily. The button appears in the action bar on each video page, with the loop state persisting across videos.
+**Description:** Adds a loop button to the YouTube mobile site, allowing users to toggle video looping easily. The loop state persists until the page is refreshed.
 
 ![image](https://github.com/user-attachments/assets/4e775576-bfdc-4ba4-abf6-8d7c18ae35e2)
 
