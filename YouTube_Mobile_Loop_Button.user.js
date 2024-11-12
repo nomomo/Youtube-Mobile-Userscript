@@ -7,8 +7,8 @@
 // @homepage     https://github.com/nomomo/Youtube-Mobile-Userscript
 // @homepageURL  https://github.com/nomomo/Youtube-Mobile-Userscript
 // @supportURL   https://github.com/nomomo/Youtube-Mobile-Userscript/issues
-// @updateURL    https://github.com/nomomo/Youtube-Mobile-Userscript/raw/main/YouTube_Mobile_Loop_Button.user.js
-// @downloadURL  https://github.com/nomomo/Youtube-Mobile-Userscript/raw/main/YouTube_Mobile_Loop_Button.user.js
+// @updateURL    https://github.com/nomomo/Youtube-Modile-Userscript/raw/refs/heads/main/YouTube_Mobile_Loop_Button.user.js
+// @downloadURL  https://github.com/nomomo/Youtube-Modile-Userscript/raw/refs/heads/main/YouTube_Mobile_Loop_Button.user.js
 // @match        *://m.youtube.com/*
 // @require      https://cdn.jsdelivr.net/npm/arrive@2.4.1/minified/arrive.min.js
 // @grant        unsafeWindow
