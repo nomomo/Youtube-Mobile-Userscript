@@ -13,7 +13,9 @@ Welcome to the **YouTube Mobile Userscript** repository! This is a collection of
 
 **Install Link:** [https://github.com/nomomo/Youtube-Modile-Userscript/raw/refs/heads/main/YouTube-Mobile-Loop-Button.user.js](https://github.com/nomomo/Youtube-Modile-Userscript/raw/refs/heads/main/YouTube-Mobile-Loop-Button.user.js)
 
-#### Installation
+---
+
+### Installation
 To install and use this userscript:
 1. For the best experience on Android, use **[Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)**
 2. Install a userscript manager, such as **[Violentmonkey](https://violentmonkey.github.io/)** (recommended) or **[Tampermonkey](https://www.tampermonkey.net/)**.
