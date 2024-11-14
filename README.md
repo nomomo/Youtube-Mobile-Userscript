@@ -11,7 +11,7 @@ Welcome to the **YouTube Mobile Userscript** repository! This is a collection of
 
 ![image](https://github.com/user-attachments/assets/4e775576-bfdc-4ba4-abf6-8d7c18ae35e2)
 
-**Install Link:** [https://github.com/nomomo/Youtube-Modile-Userscript/raw/refs/heads/main/YouTube-Mobile-Loop-Button.user.js](https://github.com/nomomo/Youtube-Modile-Userscript/raw/refs/heads/main/YouTube-Mobile-Loop-Button.user.js)
+**Install Link:** [https://github.com/nomomo/Youtube-Mobile-Userscript/raw/refs/heads/main/YouTube-Mobile-Loop-Button.user.js](https://github.com/nomomo/Youtube-Mobile-Userscript/raw/refs/heads/main/YouTube-Mobile-Loop-Button.user.js)
 
 ---
 
